@@ -35,8 +35,8 @@
         -1,
         -1,
         "KC_ESCAPE",
-        "TD(27)",
-        "TD(28)",
+        "LT4(KC_SPACE)",
+        "LT5(KC_TAB)",
         -1
       ],
       [
@@ -70,9 +70,9 @@
         -1,
         -1,
         -1,
-        "TD(31)",
-        "TD(30)",
-        "TD(29)",
+        "LT3(KC_DELETE)",
+        "LT1(KC_BSPACE)",
+        "LT2(KC_ENTER)",
         -1
       ]
     ],
